@@ -1,0 +1,7 @@
+# Ignoriše config.json
+config.json
+
+# Ignoriše sve snimke ekrana
+*.png
+*.jpg
+*.jpeg

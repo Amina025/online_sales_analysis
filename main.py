@@ -1,5 +1,6 @@
 from product_manager import ProductManager
 from product import Product
+from cart import Cart
 
 manager = ProductManager()
 
